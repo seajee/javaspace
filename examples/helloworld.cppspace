@@ -1,0 +1,9 @@
+                    // ./javaspace.py cpp helloworld.javaspace
+
+                    #include                      <iostream>
+
+                    using         namespace             std;
+
+                    public static void main(String[] args) {
+                        cout << "Hello, world" << endl;
+                    }

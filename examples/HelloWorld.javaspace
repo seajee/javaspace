@@ -1,0 +1,9 @@
+                     // ./javaspace.py java HelloWorld.javaspace
+
+                     public        class       HelloWorld {
+
+                                int main()
+                                     {
+                     System.out.println("Hello, world")   ;
+                                     }
+                     }
