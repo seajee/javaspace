@@ -1,0 +1,48 @@
+                  GIO PERA LICENSE
+               Version 0.6, 6 May 2023
+
+ Copyright (C) 2023 GioPera's Gelateria <https://www.giopera06.live/>
+ Copyright (C) 2023 Cristian Gora
+
+ Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
+
+ 0. DEFINITIONS
+    "Project": The thing you are putting this license on
+    "Child": An human being born from 3 to 6 years ago
+    "FOSS": Free and Open Source Software
+    "Richard Stallman": A man that interjects for a moment to say that
+                        what you are refering to as Linux is in fact
+                        GNU/Linux
+
+ 1. OBLIGATIONS
+    By using this project or any content from it you agree to give
+    me one of your childrens to sacrifice them to the FOSS god, also
+    known as Richard Stallman.
+
+ 2. PERMISSIONS
+    In this project you can:
+    - Use the project however you may wish, without restrictions
+    - Modify and redistribute it to all human beings as long as you 
+      include and do not modify this license, you give credits to the
+      authors of the project and give them the children.
+    - Go to the toilet
+
+ 3. OTHERS
+    You can send the Children to
+      308 of Negra Arroyo Lane,
+      Albuquerque, New Mexico 87104.
+    You can also buy me a coffe at <http://www.giopera06.live/>
+
+ 4. JUST IN case
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+    SOFTWARE.
+
+ This license is a parody of the GNU General Public License,
+ and can be viewed and copied at <https://license.giopera06.live/>.
+ THIS LICNSE SHOULD NOT BE USED IN ANY PROJECT OR ANY FORM OF CONTENT.
