@@ -1,4 +1,4 @@
-This project is a joke. Do not take this seriously.
+This project is a joke. Don't take it seriously.
 
 # Javaspace
 
