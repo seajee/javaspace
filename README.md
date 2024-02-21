@@ -1,3 +1,5 @@
+This project is a joke. Do not take this seriously.
+
 # Javaspace
 
 Javaspace is the modern way to use spaces efficiently in programs, especially with programs written in Java and C++.<br><br>
